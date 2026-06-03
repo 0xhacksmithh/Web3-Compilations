@@ -1,15 +1,23 @@
-- [x] [Write a Solidity function to check if a given address is a contract or not. with recent solidity stable version](./Smart_Contracts/AddressChecker.sol)
-- [x] [Write a Solidity function to transfer tokens from one address to another.](./Smart_Contracts/SimpleToken.sol)
-- [x] [Write a Solidity function to withdraw funds from a smart contract.](./Smart_Contracts/Vault.sol)
-- [x] [Write a Solidity function to check the balance of a given address.](./Smart_Contracts/BalanceChecker.sol)
-- [x] [Write a Solidity function to implement a time-locked contract, which allows funds to be withdrawn only after a certain time has elapsed.](./Smart_Contracts/TimeLock.sol)
-- [x] [Write a Solidity function to implement a voting system, where each address can vote only once.](./Smart_Contracts/Voting.sol)
-- [x] [Write a Solidity function to implement a basic ERC-20 token.](./Smart_Contracts/BasicERC20.sol)
-- [x] [Write a Solidity function to implement a crowdsale, where tokens are sold in exchange for ether.](./Smart_Contracts/Crowdsale.sol)
-- [x] [Write a Solidity function to implement a decentralized exchange, where users can trade ERC-20 tokens.](./Smart_Contracts/SimpleDEX.sol)
-- [x] [Write a Solidity function to implement a multi-signature wallet, where funds can be released only with the approval of multiple addresses.](./Smart_Contracts/MultiSigWallet.sol)
-- [x] [Write a Solidity function to implement a staking system, where users can earn rewards for holding tokens.](./Smart_Contracts/Staking.sol)
-- [x] [Write a Solidity function to implement a lottery, where users can buy tickets for a chance to win a prize.](./Smart_Contracts/Lotery.sol)
-- [x] [Write a Solidity function to implement a blind auction, where bidders submit sealed bids and the highest bidder wins.](./Smart_Contracts/BlindAuction.sol)
-- [x] [Write a Solidity function to implement a rentable storage system, where users can rent storage space in exchange for tokens.](./Smart_Contracts/RentableStorage.sol)
-- [x] [Write a Solidity function to implement a trustless escrow system, where funds are held in escrow until certain conditions are met.](./Smart_Contracts/TrustlessEscrow.sol)
+# 🚀 Solidity Smart Contracts
+
+| Status |  #  | Smart Contract Challenge                            | Solution                                                     |
+| :----: | :-: | --------------------------------------------------- | ------------------------------------------------------------ |
+|   ✅   | 01  | Check if an address is a contract (Latest Solidity) | [AddressChecker.sol](./Smart_Contracts/AddressChecker.sol)   |
+|   ✅   | 02  | Transfer tokens from one address to another         | [SimpleToken.sol](./Smart_Contracts/SimpleToken.sol)         |
+|   ✅   | 03  | Withdraw funds from a smart contract                | [Vault.sol](./Smart_Contracts/Vault.sol)                     |
+|   ✅   | 04  | Check the balance of a given address                | [BalanceChecker.sol](./Smart_Contracts/BalanceChecker.sol)   |
+|   ✅   | 05  | Time-Locked Contract                                | [TimeLock.sol](./Smart_Contracts/TimeLock.sol)               |
+|   ✅   | 06  | Voting System (One Vote Per Address)                | [Voting.sol](./Smart_Contracts/Voting.sol)                   |
+|   ✅   | 07  | Basic ERC-20 Token                                  | [BasicERC20.sol](./Smart_Contracts/BasicERC20.sol)           |
+|   ✅   | 08  | Crowdsale Contract                                  | [Crowdsale.sol](./Smart_Contracts/Crowdsale.sol)             |
+|   ✅   | 09  | Decentralized Exchange (DEX)                        | [SimpleDEX.sol](./Smart_Contracts/SimpleDEX.sol)             |
+|   ✅   | 10  | Multi-Signature Wallet                              | [MultiSigWallet.sol](./Smart_Contracts/MultiSigWallet.sol)   |
+|   ✅   | 11  | Staking System                                      | [Staking.sol](./Smart_Contracts/Staking.sol)                 |
+|   ✅   | 12  | Lottery Contract                                    | [Lotery.sol](./Smart_Contracts/Lotery.sol)                   |
+|   ✅   | 13  | Blind Auction                                       | [BlindAuction.sol](./Smart_Contracts/BlindAuction.sol)       |
+|   ✅   | 14  | Rentable Storage System                             | [RentableStorage.sol](./Smart_Contracts/RentableStorage.sol) |
+|   ✅   | 15  | Trustless Escrow System                             | [TrustlessEscrow.sol](./Smart_Contracts/TrustlessEscrow.sol) |
+|   ⬜   | 16  | Coming Soon                                         | TBD                                                          |
+|   ⬜   | 17  | Coming Soon                                         | TBD                                                          |
+
+---
