@@ -1,0 +1,1 @@
+- [x] [Write a Solidity function to check if a given address is a contract or not. with recent solidity stable version](./Smart_Contracts/AddressChecker.sol)
